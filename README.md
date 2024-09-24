@@ -1,8 +1,1 @@
-echo "# sportsbiomechanics" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/tsutomujinji/sportsbiomechanics.git
-git push -u origin main
-# sportsbiomechanics
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tsutomujinji/sportsbiomechanics)
